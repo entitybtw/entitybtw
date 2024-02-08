@@ -4,7 +4,7 @@
 <a href="https://steamcommunity.com/id/entitybtw" target="_blank">
     <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" style="margin-bottom: 5px;"/>
 </a>
-    </center>
+</center>
 <h3 align="center">🌱 I’m currently learning python, linux distros</h3>
 <details open>
   <summary>pc specs</summary>
