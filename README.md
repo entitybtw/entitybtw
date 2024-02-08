@@ -4,6 +4,6 @@
 <details open>
   <summary>pc specs</summary>
   - CPU: Intel(R) Core(TM) i9-10850k CPU @ 3.60Ghz (after overclock 4.90Ghz)
-  - GPU: Geforce RTX 3060 (overclocked by me)
-  - RAM: 32 gb
+   - GPU: Geforce RTX 3060 (overclocked by me)
+    - RAM: 32 gb
 </details>
