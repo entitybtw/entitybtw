@@ -15,3 +15,4 @@
     
 </details>
 
+![Entitybtw's GitHub stats](https://github-readme-stats.vercel.app/api?username=entitybtw&theme=gruvbox&show_icons=true)
