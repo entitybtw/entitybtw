@@ -14,4 +14,4 @@
   - RAM: 32 gb
     
 </details>
-[![entitybtw's GitHub stats](https://github-readme-stats.vercel.app/api?username=entitybtw](https://github.com/anuraghazra/github-readme-stats)
+
