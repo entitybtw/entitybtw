@@ -6,7 +6,9 @@
     <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" style="margin-bottom: 5px;"/>
 </a>
 </div>
+<h1 align="center">About me</h1>
 <h3 align="center">🎓 I’m currently learning python, linux distros</h3>
+<h3 align="center">🌍 I speak English, Russian</h3>
 <details open>
   <summary>🖥️ pc specs</summary>
   
