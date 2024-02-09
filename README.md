@@ -14,8 +14,9 @@
   - GPU: Geforce RTX 3060 (overclocked by me)
   - RAM: 32 gb
     
-</details>
-
+<details open>
+ <summary>My stats</summary>
 ![Entitybtw's GitHub stats](https://github-readme-stats.vercel.app/api?username=entitybtw&theme=gruvbox&show_icons=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=entitybtw&theme=gruvbox)](https://git.io/streak-stats)
+</details>
 
