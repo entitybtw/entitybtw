@@ -6,7 +6,6 @@
     <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" style="margin-bottom: 5px;"/>
 </a>
 </div>
-<h1 align="center"> </h1>
 <h3 align="center">🌱 I’m currently learning python, linux distros</h3>
 <details open>
   <summary>pc specs</summary>
