@@ -8,7 +8,7 @@
 </div>
 <h3 align="center">🎓 I’m currently learning python, linux distros</h3>
 <details open>
-  <summary>🖥️pc specs</summary>
+  <summary>🖥️ pc specs</summary>
   
   - CPU: Intel(R) Core(TM) i9-10850k CPU @ 3.60Ghz (after overclock 4.90Ghz)
   - GPU: Geforce RTX 3060 (overclocked by me)
