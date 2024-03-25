@@ -12,7 +12,7 @@
   
   - CPU: Intel(R) Core(TM) i9-10850k CPU @ 3.60Ghz (after overclock 4.90Ghz)
   - GPU: Geforce RTX 3060 (overclocked by me)
-  - RAM: 16 GB Model: F4-3600C16-16GTZNC, 16 GB Model: F4-3600C16-16GTZNC (total - 32 gb ram)
+  - RAM: 2x 16 GB Model: F4-3600C16-16GTZNC (total - 32 GB of RAM)
     
 <details open>
   <summary>✏️ My stats</summary>
