@@ -7,8 +7,6 @@
             <img src="https://skillicons.dev/icons?i=py,html,css,linux,ps,ae,lua" alt="My Skills" />
         </a>
     </div>
-    
-    <!-- Картинка справа -->
     <a href="https://limppumpo.entitybtw.ru">
         <img src="https://i.imgur.com/90S5TXZ.png" width="300" style="margin-left: 20px;" />
     </a>
