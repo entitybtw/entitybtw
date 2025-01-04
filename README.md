@@ -4,4 +4,4 @@
     </a>
 ### sup
 #### my website - https://entitybtw.ru
-![entitybtw's GitHub stats](https://github-readme-stats.vercel.app/api?username=entitybtw&show_icons=true&theme=merko&hide_border=true)
+![entitybtw's github stats](https://github-readme-stats.vercel.app/api?username=entitybtw&show_icons=true&theme=merko&hide_border=true)
