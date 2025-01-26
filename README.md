@@ -1,5 +1,5 @@
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,linux,ps,ae,lua)](https://entitybtw.ru)
-    <a href="https://entitybtw.ru/limppumpo">
+    <a href="https://limppumpo.bandcamp.com/album/limp-pumpo-full-discography">
         <img src="https://i.imgur.com/90S5TXZ.png" width="300" align="right" />
     </a>
 ### sup
