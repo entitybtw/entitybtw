@@ -9,5 +9,7 @@
 
 #### i’m a technofreak, linux user(i use bedrock btw)
 
+------
+
 #### my website - https://entitybtw.ru
 ![entitybtw's github stats](https://github-readme-stats.vercel.app/api?username=entitybtw&show_icons=true&theme=merko&hide_border=true&custom_title=entitybtw%27s%20github%20stats)
