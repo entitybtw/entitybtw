@@ -1,13 +1,13 @@
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,linux,ps,ae,lua)](https://entitybtw.ru)
 ### about me
 
-#### my name is vanya, nickname entitybtw
+- my name is vanya, nickname entitybtw
 
-#### i’m 13 years old
+- i’m 13 years old
 
-#### i make various homebrew stuff
+- i make various homebrew stuff
 
-#### i’m a technofreak, linux user(i use bedrock btw)
+- i’m a technofreak, linux user(i use bedrock btw)
 
 ------
 
