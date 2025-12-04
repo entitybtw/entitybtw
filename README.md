@@ -11,4 +11,4 @@
 - i’m a technofreak, linux user (i use bedrock btw) / я технофрик, линукс юзер (i use bedrock btw)
 
 ## my website / мой сайт - https://entitybtw.ru
-## my hyprland dotfiles / мои hyprland дотфайлы - https://github.com/entitybtw/dotfiles_fri-f56
+## my old hyprland dotfiles / мои старые hyprland дотфайлы - https://github.com/entitybtw/dotfiles_fri-f56
