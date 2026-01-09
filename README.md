@@ -8,7 +8,7 @@
 
 - i make various homebrew stuff :D / делаю всякие хомбрюшки :D
 
-- i’m a technofreak, linux user (i use bedrock btw) / я технофрик, линукс юзер (i use bedrock btw)
+- i’m a technofreak, linux user (i use cachyos btw) / я технофрик, линукс юзер (i use cachyos btw)
 
 ## my website / мой сайт - https://entitybtw.ru
 ## my old hyprland dotfiles / мои старые hyprland дотфайлы - https://github.com/entitybtw/dotfiles_fri-f56
