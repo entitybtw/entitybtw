@@ -16,7 +16,7 @@
 
 ## my cool projects
 
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
+<div style="display:flex; flex-wrap:wrap; gap:20px;">
 
 <a href="https://github.com/entitybtw/mcsm_portable">
 <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=entitybtw&repo=mcsm_portable&theme=dark&description_lines_count=1&card_width=300" width="300"/>
