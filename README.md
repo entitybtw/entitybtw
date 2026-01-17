@@ -12,8 +12,6 @@
 
 - i’m a technofreak, linux user (i use cachyos btw)
 
-## my website / мой сайт - https://entitybtw.ru
-
 ## my cool projects
 
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
@@ -43,3 +41,5 @@
 </a>
 
 </div>
+
+## my website - https://entitybtw.ru
