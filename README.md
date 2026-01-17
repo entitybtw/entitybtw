@@ -1,5 +1,6 @@
 [![My Skills](https://skillicons.dev/icons?i=py,html,css,linux,ps,ae,lua)](https://entitybtw.ru)
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=entitybtw&color=blue&label=GitHub+Profile+Views)](https://github.com/entitybtw)
+
+![](https://komarev.com/ghpvc/?username=entitybtw)
 
 <img src="gifs/wassup_world.gif">
 
