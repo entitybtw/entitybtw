@@ -28,4 +28,4 @@
 
 [![lpyt-docs](https://github-readme-stats-fast.vercel.app/api/pin/?username=entitybtw&repo=lpyt-docs&theme=dark&description_lines_count=3)](https://github.com/entitybtw/lpyt-docs)
 
-[!pspfetch](https://github-readme-stats-fast.vercel.app/api/pin/?username=entitybtw&repo=pspfetch&theme=dark&description_lines_count=3)(https://github.com/entitybtw/pspfetch)
+[![pspfetch](https://github-readme-stats-fast.vercel.app/api/pin/?username=entitybtw&repo=pspfetch&theme=dark&description_lines_count=3)](https://github.com/entitybtw/pspfetch)
