@@ -44,7 +44,7 @@
 
 </div>
 
-<div style="text-align: center;">
+<div style="align: center;">
 <a href="https://github.com/entitybtw">
 <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=entitybtw&theme=github_dark" width="315"/>
 </a>
