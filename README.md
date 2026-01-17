@@ -16,8 +16,30 @@
 
 ## my cool projects
 
-| | |
-|---|---|
-| [![mcsm_portable](https://github-readme-stats-fast.vercel.app/api/pin/?username=entitybtw&repo=mcsm_portable&theme=dark&description_lines_count=1&card_width=220)](https://github.com/entitybtw/mcsm_portable) | [![widgets_portable](https://github-readme-stats-fast.vercel.app/api/pin/?username=entitybtw&repo=widgets_portable&theme=dark&description_lines_count=1&card_width=220)](https://github.com/entitybtw/widgets_portable) |
-| [![arduino-nano-morse-keyboard](https://github-readme-stats-fast.vercel.app/api/pin/?username=entitybtw&repo=arduino-nano-morse-keyboard&theme=dark&description_lines_count=1&card_width=220)](https://github.com/entitybtw/arduino-nano-morse-keyboard) | [![morse-trainer](https://github-readme-stats-fast.vercel.app/api/pin/?username=entitybtw&repo=morse-trainer&theme=dark&description_lines_count=1&card_width=220)](https://github.com/entitybtw/morse-trainer) |
-| [![lpyt-docs](https://github-readme-stats-fast.vercel.app/api/pin/?username=entitybtw&repo=lpyt-docs&theme=dark&description_lines_count=1&card_width=220)](https://github.com/entitybtw/lpyt-docs) | [![pspfetch](https://github-readme-stats-fast.vercel.app/api/pin/?username=entitybtw&repo=pspfetch&theme=dark&description_lines_count=1&card_width=220)](https://github.com/entitybtw/pspfetch) |
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+
+<a href="https://github.com/entitybtw/mcsm_portable">
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=entitybtw&repo=mcsm_portable&theme=dark&description_lines_count=1&card_width=220" width="220"/>
+</a>
+
+<a href="https://github.com/entitybtw/widgets_portable">
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=entitybtw&repo=widgets_portable&theme=dark&description_lines_count=1&card_width=220" width="220"/>
+</a>
+
+<a href="https://github.com/entitybtw/arduino-nano-morse-keyboard">
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=entitybtw&repo=arduino-nano-morse-keyboard&theme=dark&description_lines_count=1&card_width=220" width="220"/>
+</a>
+
+<a href="https://github.com/entitybtw/morse-trainer">
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=entitybtw&repo=morse-trainer&theme=dark&description_lines_count=1&card_width=220" width="220"/>
+</a>
+
+<a href="https://github.com/entitybtw/lpyt-docs">
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=entitybtw&repo=lpyt-docs&theme=dark&description_lines_count=1&card_width=220" width="220"/>
+</a>
+
+<a href="https://github.com/entitybtw/pspfetch">
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=entitybtw&repo=pspfetch&theme=dark&description_lines_count=1&card_width=220" width="220"/>
+</a>
+
+</div>
