@@ -44,6 +44,6 @@
 
 </div>
 
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=streak&theme=github_dark)](https://github.com/entitybtw)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=entitybtw&theme=github_dark)](https://github.com/entitybtw)
 
 ## my website - https://entitybtw.ru
