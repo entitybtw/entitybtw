@@ -19,27 +19,27 @@
 <div style="display:flex; flex-wrap:wrap; gap:20px;">
 
 <a href="https://github.com/entitybtw/mcsm_portable">
-<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=entitybtw&repo=mcsm_portable&theme=github_dark&description_lines_count=1&card_width=320" width="320"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=entitybtw&repo=mcsm_portable&theme=github_dark&description_lines_count=1&card_width=315" width="315"/>
 </a>
 
 <a href="https://github.com/entitybtw/widgets_portable">
-<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=entitybtw&repo=widgets_portable&theme=github_dark&description_lines_count=1&card_width=320" width="320"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=entitybtw&repo=widgets_portable&theme=github_dark&description_lines_count=1&card_width=315" width="315"/>
 </a>
 
 <a href="https://github.com/entitybtw/arduino-nano-morse-keyboard">
-<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=entitybtw&repo=arduino-nano-morse-keyboard&theme=github_dark&description_lines_count=1&card_width=320" width="320"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=entitybtw&repo=arduino-nano-morse-keyboard&theme=github_dark&description_lines_count=1&card_width=315" width="315"/>
 </a>
 
 <a href="https://github.com/entitybtw/morse-trainer">
-<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=entitybtw&repo=morse-trainer&theme=github_dark&description_lines_count=1&card_width=320" width="320"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=entitybtw&repo=morse-trainer&theme=github_dark&description_lines_count=1&card_width=315" width="315"/>
 </a>
 
 <a href="https://github.com/entitybtw/lpyt-docs">
-<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=entitybtw&repo=lpyt-docs&theme=github_dark&description_lines_count=1&card_width=320" width="320"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=entitybtw&repo=lpyt-docs&theme=github_dark&description_lines_count=1&card_width=315" width="315"/>
 </a>
 
 <a href="https://github.com/entitybtw/pspfetch">
-<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=entitybtw&repo=pspfetch&theme=github_dark&description_lines_count=1&card_width=320" width="320"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=entitybtw&repo=pspfetch&theme=github_dark&description_lines_count=1&card_width=315" width="315"/>
 </a>
 
 </div>
