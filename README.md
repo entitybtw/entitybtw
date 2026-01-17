@@ -44,7 +44,7 @@
 
 </div>
 
-## stats
+## my stats
 
 <p align="center">
   <a href="https://github.com/entitybtw">
