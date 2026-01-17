@@ -46,6 +46,10 @@
 <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=entitybtw&repo=dotfiles&theme=github_dark&description_lines_count=1&card_width=315" width="315"/>
 </a>
 
+<a href="https://github.com/entitybtw/dotfiles_laptop_old">
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=entitybtw&repo=dotfiles_laptop_old&theme=github_dark&description_lines_count=1&card_width=315" width="315"/>
+</a>
+
 </div>
 
 ## my stats
