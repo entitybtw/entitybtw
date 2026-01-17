@@ -15,3 +15,7 @@
 ## my website / мой сайт - https://entitybtw.ru
 ## my old hyprland dotfiles / мои старые hyprland дотфайлы - https://github.com/entitybtw/dotfiles_fri-f56
 ## скоро, я добавлю текущие дотфайлы / soon, i will add the current dotfiles
+
+## my cool repos
+
+[![mcsm_portable](https://github-readme-stats-fast.vercel.app/api/pin/?username=entitybtw&repo=mcsm_portable&theme=dark&description_lines_count=3)](https://github.com/entitybtw/mcsm_portable)
