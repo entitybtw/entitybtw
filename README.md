@@ -57,5 +57,3 @@
     <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=entitybtw&theme=github_dark"/>
   </a>
 </p>
-
-## my website - https://entitybtw.ru
