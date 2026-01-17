@@ -2,15 +2,15 @@
 
 <img src="gifs/wassup_world.gif">
 
-### about me / обо мне
+### about me
 
-- my name is vanya / меня зовут ваня
+- my name is vanya
 
-- i’m 13 years old / мне 13 лет 
+- i’m 13 years old
 
-- i make various homebrew stuff :D / делаю всякие хомбрюшки :D
+- i make various homebrew stuff :D
 
-- i’m a technofreak, linux user (i use cachyos btw) / я технофрик, линукс юзер (i use cachyos btw)
+- i’m a technofreak, linux user (i use cachyos btw)
 
 ## my website / мой сайт - https://entitybtw.ru
 
