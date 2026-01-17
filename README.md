@@ -44,11 +44,10 @@
 
 </div>
 
-<div style="align: center;">
 <a href="https://github.com/entitybtw">
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=entitybtw&theme=github_dark" width="315"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=entitybtw&theme=github_dark" width="315" style="display: block; margin: 0 auto;"/>
 </a>
-</div>
+
 
 
 ## my website - https://entitybtw.ru
