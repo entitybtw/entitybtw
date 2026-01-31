@@ -1,6 +1,6 @@
 # entitybtw
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,linux,ps,ae,lua,c++,c)](https://entitybtw.ru)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,linux,ps,ae,lua,cpp,c)](https://entitybtw.ru)
 
 <img src="gifs/wassup_world.gif">
 
